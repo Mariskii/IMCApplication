@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IMCApplication</string>
+    <string name="text_peso">Peso</string>
+    <string name="text_edad">Edad</string>
+    <string name="text_boton_resultado">CALCULAR RESULTADO</string>
+    <string name="tu_resultado_es">TU RESULTADO ES:</string>
+</resources>
